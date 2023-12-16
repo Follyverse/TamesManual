@@ -1,5 +1,5 @@
 Version List:
 Mode Version Rev:
 urp 1000 0;
-hdrp 1000;
+hdrp 1000 0;
 End Version List
