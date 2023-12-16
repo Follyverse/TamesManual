@@ -1,6 +1,6 @@
 Version List:
 Mode Version Rev:
 hub 1000 1;
-unity_urp 1000 0;
-unity_hdrp 1000 0;
+unity-urp 1000 0;
+unity-hdrp 1000 0;
 End Version List
